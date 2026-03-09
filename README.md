@@ -28,6 +28,21 @@ A lightweight API testing tool similar to Postman.
 - Test assertions (e.g. `status == 200`, `body.id == 1`)
 - Save and reload requests from a local collection
 
+Here are some sample API calls to try out!
+
+Country data
+```
+https://restcountries.com/v3.1/name/ireland
+```
+Pokémon data
+```
+https://pokeapi.co/api/v2/pokemon/pikachu
+```
+Live Dublin weather
+```
+https://api.open-meteo.com/v1/forecast?latitude=53.33&longitude=-6.25&current_weather=true
+```
+
 ---
 
 ## Tech Stack
