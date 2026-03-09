@@ -1,6 +1,6 @@
 # [DevPlayground](https://burkeblaine1999.github.io/DevPlayground/)
 
-A free, zero-backend developer toolkit for practising SQL, testing APIs, visualising JSON, and experimenting with regex. Hosted entirely on GitHub Pages with no server, no build step, and no running costs.
+A free, zero-backend developer toolkit for practising SQL, testing APIs, visualising JSON, and experimenting with regex.
 
 ---
 
