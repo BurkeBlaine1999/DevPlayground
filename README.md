@@ -82,7 +82,7 @@ A tool for exploring and debugging JSON — paste any JSON and it renders as an 
 **Sample JSON to paste and parse:**
 ```json
 {
-  "company": "GlobalLogic",
+  "company": "Software ltd",
   "founded": 2000,
   "active": true,
   "headquarters": {
@@ -123,7 +123,7 @@ A live regex tester with match highlighting, token explanation, and a built-in c
 **Sample test string:**
 ```
 Contact us at hello@devtools.io or support@example.com
-Phone: +353 89 257 6083 or +1 (555) 123-4567
+Phone: +353 89 765 4321 or +1 (555) 123-4567
 Visit https://www.devtools.io or http://example.github.io
 Order #A1042 and #B2891 were shipped on 2024-03-15 and 2024-04-02
 The price was $19.99, reduced from $34.99
